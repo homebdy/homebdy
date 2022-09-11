@@ -1,16 +1,16 @@
-### Hi there 👋
+<div>
 
-<!--
-**homebdy/homebdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=homebdy&show_icons=true&theme=gruvbox_light"/>
 
-Here are some ideas to get you started:
+### 🌱 Yeon-Jin Kim 🌱
+---
+<a href="https://homebdy.github.io/"><img src="https://img.shields.io/badge/Tech Blog-222222?style=flat&logo=GitHub&logoColor=white"></a>
+[<img src="https://img.shields.io/badge/rladuswls010@tukorea.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white"></a>](mailto:rladuswls010@tukorea.ac.kr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🖥️ Tech Stack 🖥️ 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Java-265A8F?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"><br/>
+</div>
