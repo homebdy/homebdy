@@ -1,6 +1,6 @@
 <div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=homebdy&show_icons=true&theme=gruvbox_light"/>
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=homebdy&show_icons=true&theme=gruvbox_light"/>
 
 ### 🌱 Yeon-Jin Kim 🌱
 ---
